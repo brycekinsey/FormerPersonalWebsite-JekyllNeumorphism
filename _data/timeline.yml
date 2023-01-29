@@ -17,45 +17,58 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
-  tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
-  timeline-side: right
-
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
-  tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+- title: Microsoft Azure Administrator Associate
+  title-url: https://www.credly.com/badges/74e53ffd-4da0-4f7d-8c4d-4b8df1f59604/embedded
+  date: Dec 2022
+  subtitle: Certification
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+- title: Microsoft Azure Fundamentals
+  title-url: https://www.credly.com/badges/d941a22e-068b-47c5-b175-2076a107617c/embedded
+  date: Oct 2022
+  subtitle: Certification
+  timeline-side: left
+
+- title: Withum
+  title-url: https://www.withum.com/our-people/bryce-kinsey/
+  date: Oct 2022 - Present
+  subtitle: Consultant
   tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+    - tag: Cloud Engineering
+    - tag: Security
+    - tag: Managed Services
+    - tag: Digital Advisory
+    - tag: Microsoft Azure
+    - tag: Microsoft 365
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+- title: Aylo Health (formerly Eagles Landing Health)
+  title-url: https://aylohealth.com/
+  date: Nov 2021 - Oct 2022
+  subtitle: Systems Administrator
+  tags:
+    - tag: Healthcare IT
+    - tag: Hybrid
+    - tag: Security
+    - tag: EHR
+    - tag: Regulatory Compliance (e.g. HIPAA)
+  timeline-side: right
+
+- title: Bridge Technology Operatons
+  title-url: https://btechsouth.com/
+  date: Oct 2020 - Nov 2021
+  subtitle: IT Support Specialist
+  tags:
+    - tag: Managed Service Provider (MSP)
+    - tag: Client Relations
+    - tag: Network Refreshes
+    - tag: New Site Stand-Up
+    - tag: System Integrations
+    - tag: Hardware Building, Maintenance, and Repairs
+  timeline-side: right
+
+- title: Florida Atlantic University
+  title-url: https://www.fau.edu/engineering/
+  date: Aug 2016 - May 2018
+  subtitle: Earned an AA degree while pursuing a Bachelor of Science in Computer Science. Soar-in-Four scholar granted by the FAU College of Engineering & Computer Science.
   timeline-side: left

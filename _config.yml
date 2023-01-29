@@ -2,29 +2,29 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: Neumorphism
+title: Bryce Kinsey
 # description: This will be meta HTML tag content. This can be ignored.
-description: Personal website powered by Jekyll
+description: Bryce Kinsey's personal website powered by Jekyll.
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: "/neumorphism"
+baseurl: ""
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: Neumorphism
+username: Bryce Kinsey
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Jekyll Theme
+typing_text: "Consultant: Cloud Engineering and Managed Services"
 # email: Your E-Mail address for the email button.
-email: email@example.com
+email: bryce@brycekinsey.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
-# > twitter_username:
-github_username: longpdo
-codepen_username: exampleUser
-dev_username: exampleUser
-linkedin_username: exampleUser
-twitter_username: exampleUser
+linkedin_username: bryce-kinsey
+youtube_username: tercettech
+github_username: brycekinsey
+codepen_username: 
+dev_username: 
+twitter_username:
 
 # ABOUT ME SECTION
 # show_aboutme_card:
@@ -34,13 +34,15 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>. You can also find me on <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">JAMstack Themes</a> and on <a class="highlight-link" href="https://jekyll-themes.com/neumorphism/" target="_blank" rel="noreferrer">Jekyll Themes</a>.
+about_me_description: "Hello! I'm Bryce, an IT professional with experience in system administration, infrastructure management, and network operations. As a detail-oriented individual with a passion for excellence, I am adept at formulating and developing target-oriented IT roadmaps and strategies as well as defining vision in compliance with up-to-date industry standards/guidelines. What makes me stand out are my abilities in developing and deploying robust solutions aimed at pinpointing and promptly troubleshooting system issues. I am an out-of-the-box thinker and creative problem-solver with exceptional leadership, communication, relationship-building, and analytical skills.
+Throughout my career, I have remained a resourceful and results-driven professional with a solid record in leading varied technical projects from conception to successful completion while achieving targeted milestones within defined scope, timeframe, and quality. I also have proven success in implementing systems, documenting system/process changes, installing hardware, standing up software solutions, and integrating new systems into existing systems. 
+I believe that my experience and progressive career path will be helpful in achieving the main objectives of an organization. I am passionate about tackling new challenges and opportunities where I employ my technical skills and experiences at a higher strategic level. I am confident that my wide range of knowledge and talents allow me to contribute to the success of the companies I work with. While others take pride in meeting all standards set before them, my passion is for delivering service and leadership that goes beyond organizational expectations."
 
 # SKILLS SECTION
 # show_skills_card:
 # > setting this to true, will display the Skills section
 # > setting this to false, will omit the Skills section
-show_skills_card: true
+show_skills_card: false
 # about_me_title: The will be displayed as the title in the Skills section
 skills_title: Skills
 
@@ -53,7 +55,7 @@ show_timeline_card: true
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://example.com/
+cv_download_link: https://brycekinsey-my.sharepoint.com/:b:/p/bryce/EXGLnm89fahFiKZILhQMm40B0vBiva5FHbxc-g-IyJWvEw?e=NQUprQ
 
 # PROJECTS SECTION
 # show_projects_card:
@@ -63,15 +65,15 @@ show_projects_card: true
 # show_projects:
 # > setting this to true, will display your listed projects in _data/projects.yml
 # > setting this to false, will omit your listed projects
-show_projects: true
+show_projects: false
 # projects_title: The will be displayed as the title of your projects
-projects_title: Projects
+projects_title: Personal Projects
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
 show_os_projects: true
 # os_projects_title: The will be displayed as the title of your open source projects
-os_projects_title: Open Source Projects
+os_projects_title: GitHub Projects
 
 # CONTACT SECTION
 # show_contact_card:
@@ -81,12 +83,12 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>.
+contact_description: If you have any questions, comments, or business inquiries, please feel free to reach out to me. I would be more than happy to connect with you, so please don’t hesitate to get in touch using one of the below methods!
 
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: longpdo/neumorphism
+repository: brycekinsey/brycekinsey.github.io
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
@@ -100,7 +102,7 @@ projects:
     # forks:
     # > setting this to true, will exclude forked repositories
     # > setting this to false, will also display forked repositories
-    forks: true
+    forks: false
     # projects: A list of the repository names you want to exclude from the listing.
     projects:
     # - repo1-to-be-excluded
@@ -110,7 +112,7 @@ projects:
 # Set the id, if you want to track your website with Google Analytics
 # > set this to "", if you do not want to track with Google Analytics
 google-analytics:
-  id: "UA-158757509-2"
+  id: "G-FZ3FLBCXCH"
 
 ### END OF VALUES YOU SHOULD CHANGE ###
 
