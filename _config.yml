@@ -71,7 +71,7 @@ projects_title: Personal Projects
 # > setting this to false, will omit your public projects on github
 show_os_projects: true
 # os_projects_title: The will be displayed as the title of your open source projects
-os_projects_title: GitHub Projects
+os_projects_title: Open Source Projects
 
 # CONTACT SECTION
 # show_contact_card:
