@@ -96,7 +96,7 @@ projects:
     # archived:
     # > setting this to true, will exclude archived repositories
     # > setting this to false, will also display archived repositories
-    archived: true
+    archived: false
     # forks:
     # > setting this to true, will exclude forked repositories
     # > setting this to false, will also display forked repositories
