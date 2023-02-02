@@ -160,7 +160,7 @@ To complete the configuration for the Github Metadata plugin, you also need to c
 For optimal results, you should make sure, that every Github project, you want included on this portfolio, has added following informations on Github:
 
 * Description
-* Homepage link, if there is a live version of it
+* Homepage link, if there is a live version of it.
 * Topics
 
 Example:
