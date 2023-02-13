@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: "My experience offers professional knowledge in several areas of the Information Technology field, from managed services and systems administration to cloud engineering and digital advisory. As a Consultant on Withum’s Managed Services and Cloud Engineering/Security teams, I strive for opportunities to employ, challenge and expand my technical skillsets while delivering service and leadership that goes beyond expectations. I'm also active in my community and volunteer with local churches, participating in an audio-visual ministry and other technical assistance. I look forward to annual events that support my community, like turkey giveaways and back-to-school supplies drives. I resides in metro Atlanta, Georgia, with my wife and overly-energetic Pomeranian. When I'm not spending time with my family or consulting at Withum, you’ll most likely find me on a basketball court or in my home lab."
+about_me_description: "My experience offers professional knowledge in several areas of the Information Technology field, from managed services and systems administration to cloud engineering and digital advisory. As a Consultant on Withum’s Managed Services and Cloud Engineering/Security teams, I strive for opportunities to employ, challenge and expand my technical skillsets while delivering service and leadership that goes beyond expectations. I'm also active in my community and volunteer with local churches, participating in an audio-visual ministry and other technical assistance. I look forward to annual events that support my community, like turkey giveaways and back-to-school supplies drives. I reside in metro Atlanta, Georgia, with my wife and overly-energetic Pomeranian. When I'm not spending time with my family or consulting at Withum, you’ll most likely find me on a basketball court or in my home lab."
 
 # SKILLS SECTION
 # show_skills_card:
@@ -53,7 +53,7 @@ show_timeline_card: true
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://brycekinsey-my.sharepoint.com/:b:/p/bryce/EXGLnm89fahFiKZILhQMm40B0vBiva5FHbxc-g-IyJWvEw?e=NQUprQ
+cv_download_link: https://brycekinsey-my.sharepoint.com/:b:/p/bryce/EXGLnm89fahFiKZILhQMm40BhDFTzQ2la_iTQBhoyNRn3Q?e=g2ao3a
 
 # PROJECTS SECTION
 # show_projects_card:
