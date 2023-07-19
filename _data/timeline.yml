@@ -37,15 +37,14 @@
 
 - title: Withum
   title-url: https://www.withum.com/our-people/bryce-kinsey/
-  date: Oct 2022 - Present
-  subtitle: Consultant
+  date: Oct 2022 - Jul 2023
+  subtitle: Cloud Engineer
   tags:
-    - tag: Cloud Engineering
-    - tag: Security
-    - tag: Managed Services
-    - tag: Digital Advisory
     - tag: Microsoft Azure
     - tag: Microsoft 365
+    - tag: Cloud Engineering
+    - tag: Security
+    - tag: Advisory
   timeline-side: right
 
 - title: Aylo Health (formerly Eagles Landing Health)
