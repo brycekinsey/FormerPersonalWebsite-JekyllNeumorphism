@@ -14,13 +14,13 @@ baseurl: ""
 username: Bryce Kinsey
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: "Consultant: Cloud Engineering and Managed Services"
+typing_text: "Cloud Engineer and Information Technology Professional"
 # email: Your E-Mail address for the email button.
 email: bryce@brycekinsey.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 linkedin_username: bryce-kinsey
-youtube_username: "@tercettech"
+youtube_username: 
 github_username: brycekinsey
 codepen_username: 
 dev_username: 
@@ -34,7 +34,13 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: "My experience offers professional knowledge in several areas of the Information Technology field, from managed services and systems administration to cloud engineering and digital advisory. As a Consultant on Withum’s Managed Services and Cloud Engineering/Security teams, I strive for opportunities to employ, challenge and expand my technical skillsets while delivering service and leadership that goes beyond expectations. I'm also active in my community and volunteer with local churches, participating in an audio-visual ministry and other technical assistance. I look forward to annual events that support my community, like turkey giveaways and back-to-school supplies drives. I reside in metro Atlanta, Georgia, with my wife and overly-energetic Pomeranian. When I'm not spending time with my family or consulting at Withum, you’ll most likely find me on a basketball court or in my home lab."
+about_me_description: "Hello! I am Bryce, a well-rounded IT professional with a robust track record in managed services, systems administration, and cloud engineering/architecture (Azure). My drive is rooted in delivering service and leadership that not only meets but transcends industry expectations and organizational standards.
+
+With meticulous attention to detail and an enduring passion for excellence, I excel in crafting and implementing goal-oriented IT strategies, complying with the latest industry guidelines. My standout abilities reside in developing and deploying robust solutions to identify and rectify system issues swiftly. As a creative problem solver and out-of-the-box thinker, I bring exceptional leadership, communication, relationship-building, and analytical skills to the table.
+
+Throughout my professional journey, I have shown consistent dedication as a resourceful and result-oriented professional. My accomplishments range from successfully steering diverse technical projects from ideation to completion, adhering to defined scope, timeframe, and quality parameters. Additionally, I have proven expertise in integrating new systems into existing ones, installing hardware, standing up software solutions, and documenting system/process changes. I firmly believe that my progressive career trajectory can contribute to achieving an organization's core objectives. I am always enthusiastic about undertaking new challenges and opportunities that allow me to utilize my technical skills and experiences at a strategic level.
+
+Living in Georgia, with my lovely wife and our energetic Pomeranian, my life outside of work includes enjoying time with family, community service through local churches, playing basketball, and tinkering in my home lab. If you're interested in discussing how my experiences can benefit your organization or if you'd like to chat about the latest trends in technology, don't hesitate to connect!"
 
 # SKILLS SECTION
 # show_skills_card:
@@ -53,7 +59,7 @@ show_timeline_card: true
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://brycekinsey-my.sharepoint.com/:b:/p/bryce/EXGLnm89fahFiKZILhQMm40BhDFTzQ2la_iTQBhoyNRn3Q?e=g2ao3a
+cv_download_link: https://brycekinsey-my.sharepoint.com/:b:/p/bryce/ETWaRU-WLI5KlqeVLiQvWWEBANvcf8LyGcU80zKDZcng6A?e=KLZTeX
 
 # PROJECTS SECTION
 # show_projects_card:
