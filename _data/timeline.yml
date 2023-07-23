@@ -36,10 +36,12 @@
   timeline-side: left
 
 - title: Withum
-  title-url: https://www.withum.com/our-people/bryce-kinsey/
+  title-url: https://appsource.microsoft.com/en-us/marketplace/partner-dir/8293cfdf-8c24-4655-a307-ea21cd3b22ff/overview
   date: Oct 2022 - Jul 2023
   subtitle: Cloud Engineer
   tags:
+    - tag: Microsoft Partner
+    - tag: Cloud Solution Provider (CSP)
     - tag: Microsoft Azure
     - tag: Microsoft 365
     - tag: Cloud Engineering
