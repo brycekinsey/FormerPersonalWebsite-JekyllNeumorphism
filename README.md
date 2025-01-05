@@ -1,4 +1,4 @@
-# This repository is an archive of one of Bryce Kinsey's former personal websites built using Jekyll and hosted by GitHub Pages. Please visit [JAMstack Themes]([github.com/brycekinsey/brycekinsey.github.io](https://github.com/brycekinsey/brycekinsey.github.io) to see the latest website repository.
+# This repository is an archive of one of Bryce Kinsey's former personal websites built using Jekyll and hosted by GitHub Pages. Please visit [github.com/brycekinsey/brycekinsey.github.io](https://github.com/brycekinsey/brycekinsey.github.io) to see the latest website repository.
 
 # Neumorphism <!-- omit in toc -->
 
